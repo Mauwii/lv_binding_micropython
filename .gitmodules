@@ -7,3 +7,6 @@
 [submodule "driver/png/lodepng"]
 	path = driver/png/lodepng
 	url = https://github.com/lvandeve/lodepng.git
+[submodule "driver/mpu6886"]
+	path = driver/mpu6886
+	url = https://github.com/tuupola/micropython-mpu6886.git
